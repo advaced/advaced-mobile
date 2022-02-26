@@ -1,2 +1,2 @@
-# advaced-mobile
-Official Advaced mobile app.
+# Advaced mobile
+The official Advaced mobile app.
